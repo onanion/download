@@ -1,4 +1,4 @@
-title: onanion/download
+title: Onanion
 description: > # this means to ignore newlines until "baseurl:"
 Free file sharing music, video, apk, etc
 baseurl: "/download" # the subpath of your site, e.g. /blog
