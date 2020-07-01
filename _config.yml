@@ -7,8 +7,8 @@ permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: onanion
-tagline: 
+name: onanion/download
+tagline: Free File Sharing
 about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
