@@ -14,5 +14,4 @@ categories: jav
 <b>720p</b></p>
 <p>
 <b><a href="#">Server</a> | <a href="#">Server</a> | <a href="#">Server</a></b></p>
-</div>
 </center>
