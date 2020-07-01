@@ -6,6 +6,27 @@ img: jekyll-poster.png
 date:   2017-02-27 14:55:52 +0200
 categories: jekyll update
 ---
+
+<div id='box-download'>
+<div class='title-box_download'>
+<h3>
+Title Anime Series<span><i class="fa fa-download"></i></span>
+</h3>
+</div>
+<center>
+<div class='body-box_download'>
+<p>
+<b>Title Anime 480p</b></p>
+<p>
+<b><a href='LINK DOWNLOAD'>Name Server Host</a> | <a href='LINK DOWNLOAD'>Name Server Host</a> | <a href='LINK DOWNLOAD'>Name Server Host</a> | <a href='LINK DOWNLOAD'>Name Server Host</a></b></p>
+<hr/><p>
+<b>Title Anime 720p</b></p>
+<p>
+<b><a href='LINK DOWNLOAD'>Name Server Host</a> | <a href='LINK DOWNLOAD'>Name Server Host</a> | <a href='LINK DOWNLOAD'>Name Server Host</a> | <a href='LINK DOWNLOAD'>Name Server Host</a></b></p>
+</div>
+</center>
+</div>
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
